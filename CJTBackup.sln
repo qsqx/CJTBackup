@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CJTBackup", "CJTBackup\CJTBackup.csproj", "{48B314AE-413F-453B-B8F0-17502AA0C664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B314AE-413F-453B-B8F0-17502AA0C664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B314AE-413F-453B-B8F0-17502AA0C664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B314AE-413F-453B-B8F0-17502AA0C664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B314AE-413F-453B-B8F0-17502AA0C664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D803823A-FFF4-40B3-A9A8-754657483B6B}
+	EndGlobalSection
+EndGlobal
